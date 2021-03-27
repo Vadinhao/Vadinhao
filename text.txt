@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 New_file(created by master)
 1.2 by master
+=======
+New_file(created by master
+where is master? 
+>>>>>>> cd9252e (text where is master?)
