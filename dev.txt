@@ -4,9 +4,13 @@ ok, im dev
 good day for 1.2
 <<<<<<< HEAD
 ok, 1.3
+<<<<<<< HEAD
 =======
 =======
 master have seen this 1.0
 >>>>>>> cdc9801 (m seen d 1.0)
 >>>>>>> d96ccad (m seen d 1.0 (was rebase))
 master have seen this 1.3
+=======
+finaly 1.4!
+>>>>>>> f642035 (1.4 by dev)
